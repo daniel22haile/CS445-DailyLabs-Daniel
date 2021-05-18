@@ -1,1 +1,1 @@
-# CS445-DailyLabs
+# CS445-DailyLabs-Lab1
