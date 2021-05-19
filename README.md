@@ -12,8 +12,11 @@ This's my first git assignment
 ![git merge screenshot](merges.jpg)
 ![git merge screenshot](merge.jpg)
 
-# 4 git checkout screenshot
+# 4 git merges for revert screenshot
+![git merge screenshot](merges.jpg)
+
+# 5 git checkout screenshot
 ![git checkout screenshot](checkout.jpg)
 
-# 5 git add commit screenshot
+# 6 git add commit screenshot
 ![git add commit screenshot](addCommit.jpg)
